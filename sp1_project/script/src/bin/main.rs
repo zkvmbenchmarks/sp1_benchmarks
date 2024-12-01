@@ -87,7 +87,6 @@ fn main() {
             .run()
             .expect("failed to generate proof");
 
-        println!("Successfully generated proof!");
         let benchmark_results = benchmarker.end_benchmark();
 
         if let Some((duration, peak_memory)) = benchmark_results {
@@ -104,7 +103,6 @@ fn main() {
         let mut verifying_benchmarker = benchmarker::Benchmarker::new();
         verifying_benchmarker.start_benchmark();
         client.verify(&proof, &vk).expect("failed to verify proof");
-        println!("Successfully verified proof!");
         let verifying_benchmark_results = verifying_benchmarker.end_benchmark();
 
         //logs verification benchmark results

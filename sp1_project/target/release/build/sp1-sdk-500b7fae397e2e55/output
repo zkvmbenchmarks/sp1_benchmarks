@@ -1,4 +1,4 @@
-cargo:rustc-env=VERGEN_BUILD_TIMESTAMP=2024-12-01T10:12:50.012632842Z
+cargo:rustc-env=VERGEN_BUILD_TIMESTAMP=2024-12-01T15:36:06.840375170Z
 cargo:rustc-env=VERGEN_GIT_SHA=VERGEN_IDEMPOTENT_OUTPUT
 cargo:warning=could not find repository at '/home/kaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp1-sdk-3.0.0'; class=Repository (6); code=NotFound (-3)
 cargo:warning=VERGEN_GIT_SHA set to default
