@@ -1,1 +1,0 @@
-/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/fibonacci-program: /home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/lib/src/lib.rs /home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/program/src/main.rs

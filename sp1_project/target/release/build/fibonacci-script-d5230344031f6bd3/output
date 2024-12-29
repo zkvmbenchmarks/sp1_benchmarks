@@ -1,7 +1,0 @@
-cargo::rerun-if-changed=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/program/src
-cargo::rerun-if-changed=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/program/Cargo.toml
-cargo:rerun-if-changed=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/Cargo.lock
-cargo:rerun-if-changed=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/lib
-cargo:rerun-if-changed=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/lib
-cargo:rustc-env=SP1_ELF_fibonacci-program=/home/kaan/Belgeler/VScode/Rust/zkvm_benchmarking_project/sp1_benchmarks/sp1_project/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/fibonacci-program
-cargo:warning=fibonacci-program built at 2024-12-01 18:36:17
