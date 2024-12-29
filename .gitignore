@@ -1,0 +1,19 @@
+# Cargo build
+sp1_project/**/target
+
+# Cargo config
+sp1_project/.cargo
+
+# Profile-guided optimization
+sp1_project/tmp
+sp1_project/pgo-data.profdata
+
+# MacOS nuisances
+sp1_project/.DS_Store
+
+# Proofs
+sp1_project/**/proof-with-pis.json
+sp1_project/**/proof-with-io.json
+
+# Env
+sp1_project/.env
