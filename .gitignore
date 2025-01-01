@@ -1,5 +1,5 @@
 # Cargo build
-sp1_project/**/target
+sp1_project/target
 
 # Cargo config
 sp1_project/.cargo
