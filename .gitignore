@@ -17,3 +17,12 @@ sp1_project/**/proof-with-io.json
 
 # Env
 sp1_project/.env
+
+# Cargo lock
+sp1_project/Cargo.lock
+
+# vscode
+sp1_project/.vscode
+
+# elf files
+sp1_project/**/*.elf
