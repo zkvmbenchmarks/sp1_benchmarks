@@ -25,4 +25,4 @@ sp1_project/Cargo.lock
 sp1_project/.vscode
 
 # elf files
-sp1_project/**/*.elf
+sp1_project/elf
